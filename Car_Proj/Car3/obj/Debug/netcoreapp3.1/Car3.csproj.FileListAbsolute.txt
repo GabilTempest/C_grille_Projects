@@ -1,0 +1,13 @@
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\bin\Debug\netcoreapp3.1\Car3.exe
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\bin\Debug\netcoreapp3.1\Car3.deps.json
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\bin\Debug\netcoreapp3.1\Car3.runtimeconfig.json
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\bin\Debug\netcoreapp3.1\Car3.runtimeconfig.dev.json
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\bin\Debug\netcoreapp3.1\Car3.dll
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\bin\Debug\netcoreapp3.1\Car3.pdb
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\obj\Debug\netcoreapp3.1\Car3.csprojAssemblyReference.cache
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\obj\Debug\netcoreapp3.1\Car3.AssemblyInfoInputs.cache
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\obj\Debug\netcoreapp3.1\Car3.AssemblyInfo.cs
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\obj\Debug\netcoreapp3.1\Car3.csproj.CoreCompileInputs.cache
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\obj\Debug\netcoreapp3.1\Car3.dll
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\obj\Debug\netcoreapp3.1\Car3.pdb
+D:\А_ПОЛіТЕХ\Програмування\С#\Практичні\ZAVDANYA\Car3\Car3\obj\Debug\netcoreapp3.1\Car3.genruntimeconfig.cache
